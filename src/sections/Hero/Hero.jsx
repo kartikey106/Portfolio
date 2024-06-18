@@ -47,10 +47,10 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for development.
+          With a passion for learning new things.
           <br/>
           <br/>
-          Want to know me professionally.<br/> Click below
+          Want to know me professionally?<br/> Click below
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
